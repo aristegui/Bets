@@ -54,7 +54,7 @@
 		<maven.compiler.source>11</maven.compiler.source>
 
 		<sonar.projectKey>Bets01-2021</sonar.projectKey>
-		<sonar.organization>maiteurreta</sonar.organization>
+		<sonar.organization>aristegui</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 		<sonar.login>f3113201ed7ed11011493a309fbce8b2700cfa51</sonar.login>
 	</properties>
